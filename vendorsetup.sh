@@ -14,4 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo cm_wt88047-userdebug
+add_lunch_combo pac_wt88047-userdebug
+add_lunch_combo pac_wt88047-eng
