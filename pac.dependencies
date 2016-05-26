@@ -1,0 +1,8 @@
+[
+  {
+    "remote":      "pac"
+    "repository":  "android_external_stlport",
+    "target_path": "external/stlport"
+    "revision":    "pac-6.0"
+  }
+]
